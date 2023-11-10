@@ -65,7 +65,7 @@ nav {
 }
 
 .pricingImage {
-    width: 80%;
+    width: auto;
     height: auto;
     display: block;
     margin-left: auto;
